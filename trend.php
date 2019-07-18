@@ -12,7 +12,7 @@ $count = $_POST['count'];
  * See instructions for running these code samples locally:
  * https://developers.google.com/explorer-help/guides/code_samples#php
  */
-$dev_key= 'AIzaSyDe9W_ezBgSEUpqIPNfcWNs8IB6InwZEvU';
+$dev_key= 'Your Code Api youtube V3';
 
 if (!file_exists(__DIR__ . '/vendor/autoload.php')) {
   throw new Exception(sprintf('Please run "composer require google/apiclient:~2.0" in "%s"', __DIR__));
